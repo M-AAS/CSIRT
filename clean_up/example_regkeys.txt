@@ -1,0 +1,3 @@
+regpath,regname
+"HKCU:\Software\Microsoft\Windows\CurrentVersion\Run\","Catalyst Control Center"
+"HKCU:\Software\Microsoft\Windows\CurrentVersion\Run\","CryptoMiner"  
