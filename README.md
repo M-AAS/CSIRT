@@ -1,2 +1,2 @@
 # CSIRT
-Scripts to make life within incident response easier!
+Disclaimer: These scripts could break your machine within seconds, please remember with great power comes great responsibility!
