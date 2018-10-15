@@ -1,7 +1,7 @@
 ################################## SCRIPT INFORMATION ##################################
 ### Script Name: rem_ioc.ps1                                                         ###
 ### Purpose: Script to clean up files based on file hashes                           ###
-### Author: TWFpa2Vs - SecureLink                                                    ### 
+### Author: TWFpa2Vs                                                                 ### 
 ### Version: 1.1.0                                                                   ###
 ### Version Date: 03 April 2018                                                      ###
 ### version update: Added ability to remove registry keys                            ###
